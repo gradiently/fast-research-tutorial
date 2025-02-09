@@ -26,19 +26,44 @@ Make sure your core logic / points can be:
 ### Spot the Time / Resource Black Hole
 🌌 Let me introduce you many nafarious black holes:
 
-#### Setup Environment
+#### 📦 Setup Environment
 python library verison conflicts (between libraries and between environments) can bring many senior engineers to knees.
 
-#### Getting / Cleaning Data
+#### 🧽 Getting / Cleaning Data
 Especially for new domains where you haven't tried before
 
-#### Maintaining Any Online Server
+#### 🔥 Maintaining Any Online Server
 It will horn your production skill, but also kill your time like crazy.
 
-#### Interactive UI
+#### 🤹 Interactive UI
 It's great to demo your idea, but full on HTML JS UI x Python really take time.
 
 All above traps are still huge time traps even if you keep asking GPT.
 
-### Tricks to Avoid Those Traps
-* Use
+## What We Do?
+### ✨ Out of box environment
+* Anaconda
+* Google Colab, 1 button click save to github, 1 button click load from github
+* Enterprise Colab in GCP
+* Kaggle (Data native), Loads of templates
+
+### 🍳 Cheap Interactivity
+* ipywidgets
+* Streamlit
+
+### 💣 Leave a Mark, Make a Dent
+No matter you left an impact or not, leave a mark, inform of
+#### 📹 Screen Recording
+* `CMD + Shift + 5` on Mac
+* Save the `mov` file to company `google drive`
+* `google drive` videos can be played with youtube's video player, so your coworker can watch with `CC` on and 2x speed. 
+* Contain your own beautiful voice to expain things.
+* It's good speech drill when you record it (in some cases take you more than 1 time) before official demo.
+* Imagine 1 year later, some leadership mentioned they want something they see from other companies, but you worked on before! or some coworker is claiming some dumb idea you've already proven false! Your streamlit & other python stuff might not be running anytime soon, but your video is there! You can share your video by then.
+
+#### 📜 Various Forms of Documentation
+* Markdown in github
+* Markdown in issue (quoting code easier)
+* Confluence
+After those, post the link to your self describe with some keyword ( so busy ones like us, if forgotten can search chat history to find the link, and forward it to people)
+
