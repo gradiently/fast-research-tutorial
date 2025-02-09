@@ -67,3 +67,7 @@ No matter you left an impact or not, leave a mark, inform of
 * Confluence
 After those, post the link to your self describe with some keyword ( so busy ones like us, if forgotten can search chat history to find the link, and forward it to people)
 
+#### 🚲 Reuseable Functions
+* You / Other Engineers can keep reuse
+* A template people can fashion new things out of. 
+
