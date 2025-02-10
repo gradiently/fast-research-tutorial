@@ -2,7 +2,7 @@
 
 ## Chanllenges
 * 🏁 You don't have the luxury of `TIME`, research are usually counted in days and hours, not in years.
-* Your chance of bringing your idea to bigger audio isn't fat, yes, you can have your voice, but you usually have to deliver a concept, or prove your idea in minutes. ⏱️
+* Your chance of bringing your idea to bigger audiance isn't fat, yes, you can have your voice, but you usually have to deliver a concept, or prove your idea in minutes. ⏱️
 * Every engineer has ideas, in fact majority of us have duplicating ideas, you uniqueness is a thing you have to earn.
 * Don't imagine you're a trained operative in a mission, there won't be a guy in the chair on your ear piece, and no air assistant to bomb any enemy in your way, usually you do most of the tasks along.
 
@@ -18,6 +18,8 @@
 
 ## When Start A Project
 ### Tighten the Scope
+Tightening the scope, is mostly for mantally manage your drive.
+
 Make sure your core logic / points can be:
 * reduce into 1~3 charts
 * reduce into 1~3 numbers
